@@ -3,3 +3,4 @@ Bamboo
 Teakwood
 Sandalwood
 Neem
+Banyan
